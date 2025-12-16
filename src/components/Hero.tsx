@@ -79,8 +79,8 @@ const Hero = () => {
               Contact Me
             </a>
             <a
-              href="/resume.pdf"
-              download="Arpit_Dhoundiyal_Resume.pdf"
+              href="/resume.png"
+              download="Arpit_Dhoundiyal_Resume.png"
               className="px-8 py-3 bg-secondary text-foreground font-semibold rounded-full hover:bg-secondary/80 transition-colors flex items-center gap-2"
             >
               <Download size={18} />
